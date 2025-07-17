@@ -1,1 +1,3 @@
 # Fundamentals-of-AI-Project
+🧠 ChatWell: AI-Powered Mental Health Chatbot
+ChatWell is an AI-driven chatbot designed to offer empathetic mental health support through natural conversations. Built using Python, Flask, and Keras, the chatbot leverages NLP, sentiment analysis, and intent classification to detect emotional states like anxiety, stress, or depression and respond accordingly. It includes crisis detection mechanisms to redirect users to mental health resources during high-risk interactions. This project demonstrates how AI can assist in emotional wellness by providing immediate, private, and supportive interactions through text.
